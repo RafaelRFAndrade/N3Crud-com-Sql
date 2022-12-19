@@ -1,1 +1,1 @@
-Professor, o senhor terá que alterar a "strcon" da Page1 para a localização da tabela no seu server local sql.
+Esse é um exemplo de um Crud simples com Sql local, para utiliza-lo você precisará ter uma tabela como a minha postada "CrudPlayers" e alterar sua localização para a localização da tabela no seu sql.
