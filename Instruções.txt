@@ -1,0 +1,1 @@
+Professor, o senhor terá que alterar a "strcon" da Page1 para a localização da tabela no seu server local sql.

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="anime-landscape-for-desktop-sea-ships-colorful-clouds-scenic-tree-horizon-wallpaper.jpg" />
+    <None Remove="Drag.jpg" />
+    <None Remove="minimalism-4k-for-mac-desktop-wallpaper-preview.jpg" />
+    <None Remove="samurai-jack-wallpaper.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="anime-landscape-for-desktop-sea-ships-colorful-clouds-scenic-tree-horizon-wallpaper.jpg" />
+    <Resource Include="Drag.jpg" />
+    <Resource Include="minimalism-4k-for-mac-desktop-wallpaper-preview.jpg" />
+    <Resource Include="samurai-jack-wallpaper.jpg" />
+  </ItemGroup>
+
+</Project>

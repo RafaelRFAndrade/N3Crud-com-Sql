@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudJogador", "CrudJogador.csproj", "{579E69C4-7C26-42B9-90E4-0C0FA5ACF9C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{CD8CEB7D-2A1F-4295-ABD8-2590AA1B1045}"
+	ProjectSection(SolutionItems) = preProject
+		XMLFile1.xml = XMLFile1.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579E69C4-7C26-42B9-90E4-0C0FA5ACF9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579E69C4-7C26-42B9-90E4-0C0FA5ACF9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579E69C4-7C26-42B9-90E4-0C0FA5ACF9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579E69C4-7C26-42B9-90E4-0C0FA5ACF9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6585FE0-D798-490E-AC29-865FF202EA75}
+	EndGlobalSection
+EndGlobal
